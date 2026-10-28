@@ -1,4 +1,4 @@
-# anantsharma3232-afk-
+# anantsharma3232-afk
 My personal GitHub profile README
 # 💫 About Me:
 Python and Data Science projects<br>👯 I’m looking to collaborate on Open-source Python & AI projects<br>🤝 I’m looking for help with Data Structures & Algorithms using Python<br>🌱 I’m currently learning Data Science, Machine Learning & Python Libraries<br>💬 Ask me about Python programming and Data Anal I use Python because life is too short to write semicolons!<br>
